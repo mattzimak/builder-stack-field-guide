@@ -1,0 +1,370 @@
+{
+ "_about": "Hand fixes keyed by entry id (data/links.csv) or, under _notes, by Notion block id (data/notes.json). Only names, descriptions, urls, whys and hides - every _why says what was wrong. Descriptions are Matt's own words where he wrote any, otherwise the source's own summary; nothing here states a fact the source or the Notion note does not.",
+ "02967d28": {
+  "name": "Superwall",
+  "description": "Paywall testing for mobile apps - their pitch: monetization and experimentation tools, paywalls, entitlements and SDKs for iOS, Android and web. On my list for testing paywalls before committing to one.",
+  "_why": "Notion label was 'testing paywall'; description from the site plus my note"
+ },
+ "cd9b4ae7": {
+  "hide": true,
+  "_why": "image-only Instagram reel under Optimize eshops (only the account label 'Amboras' next to it), no text to describe"
+ },
+ "a22f2c85": {
+  "hide": true,
+  "_why": "image-only Instagram reel under PostHog, no text to describe"
+ },
+ "c70806d4": {
+  "name": "RAG explained: reranking for better answers (Towards Data Science)",
+  "description": "Explains why RAG agents do not always return the best results and what reranking does about it.",
+  "_why": "link text was 'This article'"
+ },
+ "7329a941": {
+  "description": "Broadest batteries-included system (~100 components plus hooks, dates and charts), ideal for data-heavy admin apps. Imported dependency, 31k stars, MIT.",
+  "_why": "the table row ('120+ components, 100+ hooks - Free') won over the richer review bullet further down the same toggle"
+ },
+ "45016a33": {
+  "name": "Tremor",
+  "description": "35+ dashboard blocks, KPI cards and charts for React - the best free option for dashboards and charts, copy-in code you own. Use the current tremorlabs/tremor repo, not the frozen npm package.",
+  "_why": "Notion table called it 'Tremor (components)'; description merges the table row with the review bullet"
+ },
+ "ea121337": {
+  "name": "HeroUI (ex-NextUI)",
+  "description": "Gorgeous out of the box, built on React Aria for strong accessibility. 29k stars, MIT - just time the v2 to v3 migration carefully.",
+  "_why": "the '(ex-NextUI)' part of the name had slipped into the description; star glyph and arrow rewritten"
+ },
+ "7e0a26e4": {
+  "description": "The foundation: copy-in primitives you own, accessible, the standard everything else builds on. 117k stars, MIT, reachable through the shadcn MCP.",
+  "_why": "'reachable by your shadcn MCP' addressed me; star glyph rewritten"
+ },
+ "47c63cfd": {
+  "url": "https://v0.app",
+  "_why": "v0.dev now redirects to v0.app"
+ },
+ "f87c68e3": {
+  "url": "https://coss.com/ui",
+  "name": "coss ui (ex-Origin UI)",
+  "description": "Origin UI was acquired by Cal.com and rebranded to coss ui, a modern component library built on Base UI. Adopt the new coss ui, not the frozen Origin snapshot.",
+  "_why": "originui.com redirects to coss.com/ui; my note already said to adopt the new name"
+ },
+ "b3dfce1c": {
+  "url": "https://recharts.github.io",
+  "description": "React charts - free. The recharts.org site has moved to recharts.github.io, the link follows it.",
+  "_why": "recharts.org only shows a 'has moved' notice; the table description was 19 characters"
+ },
+ "67623832": {
+  "name": "Efferd",
+  "description": "The dashboard look I benchmark against - take the elements from here and paste them into Claude Code.",
+  "_why": "the Notion text after the URL became the name; description from my note"
+ },
+ "8ce14809": {
+  "description": "Largest free copy-paste HTML plus Tailwind set, zero dependencies, actively maintained. 12k stars, MIT, no pro tier.",
+  "_why": "the table row won over the review bullet further down the Dashboard elements toggle"
+ },
+ "4f101a2f": {
+  "description": "Semantic Tailwind components as a plugin; works on any stack (Vue, Svelte, Astro, plain HTML), no JS lock-in. 41k stars, MIT.",
+  "_why": "the table row won over the review bullet"
+ },
+ "61b29da6": {
+  "description": "150+ animated, shadcn-compatible components - the best-balanced animated companion to shadcn (marquees, beams, text effects). 21k stars, MIT, shadcn-MCP installable.",
+  "_why": "the table row won over the review bullet"
+ },
+ "b114e79b": {
+  "description": "400+ Tailwind components with the widest framework parity (official React, Vue, Svelte and Angular packages). 9k stars, free core plus paid Pro.",
+  "_why": "the table row won over the review bullet"
+ },
+ "48be6b8b": {
+  "description": "Stunning animated hero, 3D and spotlight components, but heavy and weak on accessibility - cherry-pick for marketing pages, skip for app screens and forms. Freemium.",
+  "_why": "the table row won over the review bullet"
+ },
+ "18ddc4b6": {
+  "description": "shadcn block and component marketplace with a large community registry plus the Magic AI MCP - quality varies (community-submitted), so vet each component; copy the prompt from there.",
+  "_why": "the table row won over the review bullet; 'the MCP you already have' addressed me; the 'copy the prompt' hint came from a second bullet"
+ },
+ "6b66ddce": {
+  "description": "144 clean copy-paste components with first-class RTL support and dark mode - narrower catalog and quiet since mid-2025. Free.",
+  "_why": "the table row won over the review bullet"
+ },
+ "3677f01f": {
+  "description": "100+ free blocks (HTML, React, Vue) from a polished React plus Figma plus CLI system - thin free tier, only worth it if you will pay for Pro.",
+  "_why": "the table row won over the review bullet"
+ },
+ "2617d775": {
+  "description": "60+ ready-to-use Tailwind CSS blocks - free, but stale (my table flags it).",
+  "_why": "the warning emoji from the table read badly inline"
+ },
+ "47dbd78e": {
+  "url": "https://recent.design",
+  "name": "Recent (ex-Godly)",
+  "description": "High-end curated web design gallery - godly.website now redirects to recent.design.",
+  "_why": "godly.website redirects to recent.design"
+ },
+ "539988fc": {
+  "name": "Paste a URL, get a DESIGN.md (Tran Mau Tri Tam on X)",
+  "description": "Drop in a website and get its exact design written as a markdown file; feed that file to Claude Code to replicate the design language on whatever you are building.",
+  "_why": "the name was the first sentence of my note; the post itself is only its title"
+ },
+ "45d698f6": {
+  "description": "400k+ real app screenshots, fully searchable - how the best products actually solve each screen. Freemium.",
+  "_why": "the table row was under 30 characters, so the site's marketing copy was appended"
+ },
+ "d6a7e8cb": {
+  "name": "Dribbble",
+  "_why": "typo in Notion"
+ },
+ "0025f9c2": {
+  "name": "SiteInspire",
+  "_why": "typo in Notion"
+ },
+ "a471bcec": {
+  "name": "Trickle",
+  "_why": "the site's own name; the Notion label had 'Vibe Coding' appended"
+ },
+ "cf9e88ba": {
+  "description": "Curated gallery of real landing pages, searchable by industry and style - free.",
+  "_why": "the table row was under 30 characters"
+ },
+ "73737a48": {
+  "name": "Eversince.ai",
+  "description": "Prompts for hyperrealistic motion on websites - the site now pitches itself as media infrastructure for AI agents.",
+  "_why": "the whole bullet became the name; description from my note plus the site"
+ },
+ "c082ca8f": {
+  "name": "Motionsites.ai",
+  "description": "Premium prompts built specifically for animated, motion-based hero sections.",
+  "_why": "the whole bullet became the name and the merged description repeated it"
+ },
+ "e65bb78c": {
+  "name": "Google Stitch",
+  "description": "Google Labs' AI UI design tool: describe the vibe, audience and aesthetic, or give it a screenshot or URL, and it generates real, interactive UI components. Exports a design.md file Claude Code can follow. My notes on it are in the field notes.",
+  "_why": "the toggle only linked the announcement post; description from my bullets"
+ },
+ "e3d1467b": {
+  "hide": true,
+  "_why": "image-only Instagram post under Branding, no text to describe"
+ },
+ "9e986996": {
+  "hide": true,
+  "_why": "image-only Instagram reel under 'Learning sources' on the Photos page, no text to describe"
+ },
+ "9001566c": {
+  "name": "Create videos, web and apps with Claude Design - tutorial (Peter Yang on LinkedIn)",
+  "description": "Peter Yang's tutorial post with a live demo of Claude Design. The text I kept from it compares Claude Design (upload a video and a transcript, get an animated version, export HTML for Claude Code to render) with Hyperframes plus Claude Code (more setup, more control).",
+  "_why": "LinkedIn shows crawlers only a truncated title; name from the page title, description from the post text saved in Notion"
+ },
+ "34470567": {
+  "name": "Higgsfield MCP server",
+  "description": "Connect Higgsfield's MCP server to Claude Code (or another agent) and generate images and video from there - the video walkthrough is linked as well.",
+  "_why": "link text was 'MCP server'"
+ },
+ "c5e8ee32": {
+  "name": "fal.ai",
+  "description": "Generative media API platform - image, video, 3D and audio models (FLUX, Kling, Hailuo and 1000+ more) behind one API. Also the API SwiftCut runs on.",
+  "_why": "name from the URL; description from the site plus my SwiftCut notes"
+ },
+ "c82dcba1": {
+  "name": "Higgsfield",
+  "description": "AI-native creative suite: images, video and voice from text prompts or references, editing and upscaling, with an MCP server to drive it from Claude Code.",
+  "_why": "name from the URL; description from the site plus the MCP entry"
+ },
+ "f5582748": {
+  "name": "Kie.ai",
+  "description": "One API for chat, video, image and music models - used by Nate Herk, good for API use.",
+  "_why": "Notion bullet had a typo ('sed by'); description from my note plus the site"
+ },
+ "42998c48": {
+  "name": "Kling 2.5 Turbo image-to-video on fal.ai",
+  "description": "The model behind SwiftCut's transitions: call fal-ai/kling-video-v2.5-turbo directly with start and end frame inputs and a similar prompt to replicate the exact same results.",
+  "_why": "link text was the middle of my sentence ('no proprietary model involved')"
+ },
+ "c442e9a3": {
+  "name": "SwiftCut",
+  "description": "Cinematic transitions between two frames in minutes. Under the hood it is Kling 2.5 Turbo via the fal.ai API with a crafted transition prompt, hosted on the Vost.ai white-label platform - see the notes.",
+  "_why": "Notion toggle was 'Swiftcut - Transitions', so the description was one word"
+ },
+ "d8874a4a": {
+  "name": "When an upscaler is so good it feels illegal (r/comfyui)",
+  "description": "The r/comfyui thread on an upscaler that felt too good - the one upscaling link I kept. Reddit shows crawlers nothing, so the title comes from the post slug.",
+  "_why": "Reddit shows bots only the word 'Reddit'; name from the post slug"
+ },
+ "9a154951": {
+  "name": "Seedance 2.0 best practices (Amir D on X)",
+  "description": "Amir D's Seedance 2.0 best-practices post - the post is an image with a link, my label is the only text there is.",
+  "_why": "Notion text was 'Seeddance best practices'; the post exposes only a t.co link"
+ },
+ "8f611ad7": {
+  "name": "ScrapeCreators",
+  "description": "Social media scraping API built for real-time data from 28+ platforms (Instagram, TikTok, YouTube, LinkedIn, X, Reddit and more) - the full social data stack, pay-as-you-go pricing. The notes cover where it wins (Reddit) and where it falls short (Twitter).",
+  "_why": "name was the heading text; description from my bullets"
+ },
+ "33578102": {
+  "description": "General web scraping API for AI agents: any website into clean, LLM-ready Markdown or structured JSON; open source, self-hostable, integrates with n8n, LangChain and LlamaIndex. Not built for social media - the notes cover the pricing and structured-extraction complaints.",
+  "_why": "the heading gave only 'general scraping'"
+ },
+ "7c0cb881": {
+  "description": "The app store of scrapers: a pre-built actor for Amazon, Google Maps, Instagram and most other targets when you do not want to build one. Reliable at medium volume; pricing is hard to forecast (subscription plus compute units plus proxies plus actor rental) - see the notes.",
+  "_why": "the heading gave only 'social media scraping or else'"
+ },
+ "cf533d96": {
+  "name": "OpenClaw turned into an outbound sales team - ClawGTM (Jaynit Makwana on X)",
+  "description": "The post that introduced ClawGTM: paste your website and get a ready-to-launch outbound pipeline from an OpenClaw setup acting as a full outbound sales team.",
+  "_why": "Notion label was 'Openclaw turned into sales team'; description from the post"
+ },
+ "254db8be": {
+  "name": "debug-skill (AlmogBaku)",
+  "description": "Let your coding agent debug like a human developer: set breakpoints, step through code, evaluate expressions - the way you actually debug.",
+  "_why": "repository has no GitHub description; text from its README"
+ },
+ "f79e9379": {
+  "description": "Secure code by default when you build authentication, handle user input or want to prevent the OWASP Top 10 - password hashing, parameterized queries, CORS and CSP headers, input validation, JWT setup (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "c64f0a72": {
+  "description": "Structured requirements workshops before you write code: feature specs, user stories, EARS-format requirements, acceptance criteria and implementation checklists (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "5c74eef3": {
+  "description": "Reviews diffs and files for bugs, security vulnerabilities, code smells, N+1 queries and architecture problems, then produces a prioritized review report - run it before opening a pull request (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "be88a16b": {
+  "description": "Designs production-grade RAG systems: chunking, embeddings, vector stores, hybrid search, reranking and retrieval evaluation (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "5a88ee5f": {
+  "description": "Challenges ideas, plans and decisions with structured critical reasoning - devil's advocate, pre-mortem, red team, evidence audit - before a big architecture decision (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "44825657": {
+  "description": "Reverse-engineers specifications from existing codebases - legacy, undocumented or inherited systems: maps dependencies, documents business logic, generates API and architecture docs (jeffallan/claude-skills).",
+  "_why": "the skill page's meta text is prefixed with the site name; text from the skill's own description"
+ },
+ "553ade4e": {
+  "name": "Git worktrees skill (obra/superpowers)",
+  "description": "Use when feature work needs isolation from the current workspace or before executing an implementation plan - ensures an isolated workspace via native tools or a git worktree fallback (the skill's own description).",
+  "_why": "the entry links one skill inside the superpowers repository; the repository description would have described the whole framework"
+ },
+ "991149ad": {
+  "name": "GTM skills by Swan (swan-gtm/gtm-skills)",
+  "description": "Open, production-grade go-to-market skills for AI agents - prospecting, research, outreach, signals, pipeline, RevOps - as plain SKILL.md files any agent can read. Built and curated by Swan, authored by the GTM community.",
+  "_why": "the Notion toggle holds uploaded copies of the skill files; the mapping links the public library, description from its README"
+ },
+ "65ecc373": {
+  "why": "The single best source on product, growth, and how real teams work.",
+  "_why": "dropped 'His Product Pass inspired this page's design' - it referred to the agentmatik.ai page"
+ },
+ "c4742be9": {
+  "why": "Our primary source for vetting skills before they touch a client machine.",
+  "_why": "dropped the sentence about the agentmatik.ai Skills page layout"
+ },
+ "f56460f8": {
+  "name": "Building Beautiful Websites with Claude Code Is Too Easy (Nate Herk)",
+  "description": "Five simple hacks for building and designing better websites in Claude Code - the video the screenshot loop comes from: let the agent screenshot its own output and iterate (Puppeteer); the resources are linked from the video.",
+  "_why": "Notion text was 'Concept from Nate's video, resouces heere'; name from the video title, description from its own summary plus my note"
+ },
+ "69e426cc": {
+  "description": "7,300+ landing pages, tightly categorized - the fastest way to see 20 takes on one pattern. Free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "93d509fe": {
+  "description": "Free open-source SaaS dashboard template by Tremor, built on Next.js.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "e0eef22d": {
+  "description": "80+ beautifully designed vanilla HTML Tailwind CSS UI blocks - free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "dd2dddf1": {
+  "description": "110+ animated, interactive and fully customizable open-source React components - free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "427d48cd": {
+  "description": "React plus Tailwind dashboard with dark mode - a multi-theme, completely accessible, production-ready dashboard template. Free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "41267fcc": {
+  "description": "Free and open-source admin dashboard template with Tailwind dashboard widgets, built with Tailwind CSS and Flowbite.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "a04c67c9": {
+  "description": "150+ free Tailwind CSS components and templates, copy as HTML, Vue or JSX.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "1114cae2": {
+  "description": "One-page website gallery showcasing the best single-page sites, templates and resources - free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "93535bb5": {
+  "description": "The official shadcn/ui dashboard example - the closest thing to the Efferd look, free; start there and make it your own.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "2d19c4e3": {
+  "description": "Dense enterprise tables and forms - the standard for ops-heavy admin UIs. Free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "3c4e9618": {
+  "description": "The best SaaS landing pages since 2020, organized by section and element - free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "90b261c6": {
+  "description": "The most popular open-source Bootstrap admin dashboard template (45,000+ GitHub stars) - free and premium versions.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "8c93db79": {
+  "description": "Free SaaS landing templates (Simple Light, Open) - lightweight Tailwind CSS starting points, GPL.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "859f793f": {
+  "description": "Enterprise data grid and pickers on top of MUI's React component library - freemium.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "8b859900": {
+  "description": "Admin templates and UI components for Bootstrap, React, Angular and Vue - MIT-licensed free core, paid Pro.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "07290ad3": {
+  "description": "Free and open-source Tailwind CSS admin dashboard template in seven verticals, with HTML, React, Vue and Next versions - free core, paid Pro.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "c9931fd6": {
+  "description": "Premium-quality free Bootstrap admin template with well-designed components and 6k icons.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "8709a73a": {
+  "description": "Modern JavaScript charting library for interactive charts with a simple API - 100+ ready samples to copy, free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "9067f10c": {
+  "description": "Mosaic Lite - free analytics dashboard template built on Tailwind CSS and fully coded in React with Chart.js (GPL).",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "56951a51": {
+  "description": "50+ React chart types - supercharged React dataviz components, free.",
+  "_why": "the table row was a terse label; description extended with the source's own summary"
+ },
+ "_notes": {
+  "332daecf-ce6b-8041-a78e-eb3776e8b09e": {
+   "text": "Best for: influencer research, sentiment analysis, competitor ad tracking, social content sourcing (for example mining Instagram comments), and B2B social analytics.",
+   "_why": "'like your Instagram comment use case' addressed me"
+  },
+  "333daecf-ce6b-800c-94f7-cdee82d42802": {
+   "text": "Wide research with your own ct0 and auth_token session cookies is a highly effective method that bypasses the exorbitant costs of the official X API (which now charges $5,000/month for the Pro tier).",
+   "_why": "'You mentioned wanting to conduct...' was a research answer addressed to me"
+  },
+  "34cdaecf-ce6b-8052-ab40-c86b36fe3371": {
+   "text": "Tweaks - adds tweaks we can play with in real time",
+   "_why": "typo"
+  },
+  "34fdaecf-ce6b-8008-adaf-ec7448ca2c2b": {
+   "text": "Vector store / semantic search when you want relevant ideas, fuzzy retrieval, or discovery.",
+   "_why": "the sentence was cut off in Notion"
+  },
+  "34fdaecf-ce6b-80d3-8512-f86f1aee6f34": {
+   "text": "Don't force one knowledge architecture across everything. Split systems by use case and data type: multiple wikis / stores rather than one universal setup, because performance degrades as context grows.",
+   "_why": "missing space after 'type.'"
+  },
+  "333daecf-ce6b-8053-8433-cab2817ca729": {
+   "text": "Kling hallucinates objects (e.g. steering wheels in autonomous interiors) - add specific items to negatives",
+   "_why": "typo"
+  }
+ }
+}

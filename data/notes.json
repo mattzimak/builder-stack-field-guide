@@ -1,0 +1,1031 @@
+{
+ "generated_by": "scripts/awesome-sync.py",
+ "sections": {
+  "Field notes": {
+   "Building websites and apps": [
+    {
+     "block_id": "34fdaecf-ce6b-80eb-aeb2-e181d9d246f8",
+     "type": "toggle",
+     "depth": 0,
+     "text": "General"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80ab-8d2e-dea0080699b1",
+     "type": "bullet",
+     "depth": 1,
+     "text": "use brainstorming skill from superpowers?"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-8089-910c-dbc5d17d77e6",
+     "type": "bullet",
+     "depth": 1,
+     "text": "screenshot-based verification loops so the model checks whether it actually made the requested changes"
+    }
+   ],
+   "Check after vibing": [
+    {
+     "block_id": "3d3daecf-ce6b-8053-9825-e5397e2e0cb3",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Check after vibing"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8016-89f1-daf834e4afc3",
+     "type": "text",
+     "depth": 1,
+     "text": "Things to ask Claude after vibecoding an app to avoid getting hacked:"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-801f-8c40-f53863172e27",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Hide API keys"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80ec-9755-f9008213c971",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Purge secrets from Git"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80bd-9045-ebe5b50fcbb4",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Expose only the public DB key"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-804d-bbc5-ecf1b9b6be96",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Enable row-level security"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8038-9762-e37f00e59359",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Encrypt sensitive data"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8091-a1b9-f64b73e0ebf5",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Enforce server-side auth"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-805a-9964-c118228e32e7",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Lock record access"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80cd-9258-ccad9e590ea0",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Block field tampering"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8080-ac6c-ff40cba8359b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Secure session cookies"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80e2-ae72-f85ad04358ec",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Hash passwords"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80e3-a440-df169d6a1075",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Rate limit login"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8066-9105-d05fea0b1b12",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Add bot protection"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-808d-b089-fb443a662f7c",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Parameterize queries"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-8021-a079-cc89848b133f",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Validate all input"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80ac-b010-d2a5563c8242",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Escape user content"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80bb-b91c-e0de6922b29b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Restrict file uploads"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80f6-9374-e88d82aa51a9",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Trim API responses"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80d3-8f11-dd8415fb6982",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Add security headers"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-800d-a05e-fbd7aa38c61e",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Force HTTPS"
+    },
+    {
+     "block_id": "3d3daecf-ce6b-80c7-b97b-fb73a66a49bb",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Scan dependencies"
+    }
+   ],
+   "Nano Banana Pro prompting": [
+    {
+     "block_id": "34fdaecf-ce6b-8028-8dad-c84985f67885",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Vibing photos - Nano Banana Pro"
+    },
+    {
+     "block_id": "333daecf-ce6b-80c1-8383-df1de381be71",
+     "type": "bullet",
+     "depth": 1,
+     "text": "It's a reasoning model, not diffusion - write natural language like briefing a cinematographer, not keyword tags"
+    },
+    {
+     "block_id": "333daecf-ce6b-80c3-9397-e0b83525e08b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "\"8k, cinematic, photorealistic, professional color grading\" does nothing - drop all tag soup"
+    },
+    {
+     "block_id": "333daecf-ce6b-8070-a792-de07e9d4b03a",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Always assign roles to reference images: \"Use Image 1 for [design]. Use Image 2 for [composition].\""
+    },
+    {
+     "block_id": "333daecf-ce6b-80fe-ab10-cc37463f0ba5",
+     "type": "bullet",
+     "depth": 1,
+     "text": "2 reference images per prompt is the sweet spot - more than 3 muddies output"
+    },
+    {
+     "block_id": "333daecf-ce6b-80d3-8054-d95ed894faa3",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Name real light sources: \"low golden-hour sun from behind\" not \"cinematic lighting\""
+    },
+    {
+     "block_id": "333daecf-ce6b-80e1-8676-f187cfbe9702",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Specify lens + aperture: \"85mm, f/2.8\" gives precise composition control"
+    },
+    {
+     "block_id": "333daecf-ce6b-8023-adb0-f84053860820",
+     "type": "bullet",
+     "depth": 1,
+     "text": "The model has world knowledge - naming \"BMW i Vision Circular\" directly helps"
+    },
+    {
+     "block_id": "333daecf-ce6b-8039-a24f-c986fc18d301",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Always end with exclusions: \"No text, no letters, no logos, no watermarks\""
+    },
+    {
+     "block_id": "333daecf-ce6b-8069-bf61-fae5e3f35807",
+     "type": "bullet",
+     "depth": 1,
+     "text": "If 80% correct, edit conversationally (\"keep everything but change the sky\") instead of re-rolling"
+    },
+    {
+     "block_id": "333daecf-ce6b-80ca-8c49-c490b63aa15b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "For people: use silhouettes, backs of heads, motion blur - avoids face issues and safety filters"
+    },
+    {
+     "block_id": "333daecf-ce6b-8095-a370-f0d17a19a3fb",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Supports up to 14 reference images but quality drops after 3"
+    }
+   ],
+   "Kling 3.0 prompting": [
+    {
+     "block_id": "34fdaecf-ce6b-80de-bb10-ffca2f262a6e",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Vibing videos Kling 3.0"
+    },
+    {
+     "block_id": "324daecf-ce6b-80bc-a07d-d6892c585997",
+     "type": "bullet",
+     "depth": 1,
+     "text": "generating photos as reference in Nano Banana Pro, opening and closing frame"
+    },
+    {
+     "block_id": "328daecf-ce6b-804c-9abd-ce58405bcfca",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Adjustments (eg change weather) with Kling Motion Control"
+    },
+    {
+     "block_id": "333daecf-ce6b-809f-98d4-e365f26ddf0d",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Camera instruction must be the FIRST line of the prompt"
+    },
+    {
+     "block_id": "333daecf-ce6b-8089-a255-d0db0784f567",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Timestamp everything: \"(0-3s)... (3-7s)... (7-10s)...\" gives explicit temporal structure"
+    },
+    {
+     "block_id": "333daecf-ce6b-80e0-a7bb-cd011240ad7b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "One main action per prompt - car moves OR camera moves, never both"
+    },
+    {
+     "block_id": "333daecf-ce6b-80a3-ac17-ca1d11d27e29",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Don't re-describe the scene - the model can already see your image"
+    },
+    {
+     "block_id": "333daecf-ce6b-8076-8b8a-ffea9c089b39",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Always add negative prompts: \"morphing, distortion, text, jittery camera, shape changing, flickering\""
+    },
+    {
+     "block_id": "333daecf-ce6b-804e-9d2e-ff91fe171dcc",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Static camera is safer than any moving camera - prevents inventing new geometry"
+    },
+    {
+     "block_id": "333daecf-ce6b-808d-8a5e-f70317894702",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Start + End Frame control is the single biggest quality upgrade - locks both endpoints"
+    },
+    {
+     "block_id": "333daecf-ce6b-8054-8e31-c4fe3c114c71",
+     "type": "bullet",
+     "depth": 1,
+     "text": "When generating end frames, ALWAYS attach the start frame as reference for visual consistency"
+    },
+    {
+     "block_id": "333daecf-ce6b-8067-ab55-c34324ffaf47",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Forward dolly on split compositions causes zone bleed - elements creep between zones"
+    },
+    {
+     "block_id": "333daecf-ce6b-8009-95e7-dc09dc49da4b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "\"Tracking forward\" is ambiguous - specify \"toward the bottom of frame\""
+    },
+    {
+     "block_id": "333daecf-ce6b-80c5-84cc-cd299ee9924a",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Push-in on tight crops causes distortion - use lateral drift instead"
+    },
+    {
+     "block_id": "333daecf-ce6b-8053-8433-cab2817ca729",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Kling hallucinate objects (e.g. steering wheels in autonomous interiors) - add specific items to negatives"
+    },
+    {
+     "block_id": "333daecf-ce6b-800f-af8d-cdd72c6f5b5a",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Enable \"Bind Subject\" toggle if available - prevents subject morphing during animation"
+    },
+    {
+     "block_id": "333daecf-ce6b-8084-9e1f-ec4671f298dd",
+     "type": "bullet",
+     "depth": 1,
+     "text": "No text during transitions - fade out before, fade in after"
+    }
+   ],
+   "GTM": [
+    {
+     "block_id": "34fdaecf-ce6b-8080-b22a-fd558d7d68ad",
+     "type": "toggle",
+     "depth": 0,
+     "text": "General"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80f2-9761-f2cbdb35fffd",
+     "type": "bullet",
+     "depth": 1,
+     "text": "exhaust current-client referrals first, ideally with the client making introductions; use cold outreach only after that higher-conversion path is tapped out"
+    }
+   ]
+  },
+  "Web design and inspiration": {
+   "Claude Design": [
+    {
+     "block_id": "34cdaecf-ce6b-809e-afe2-f8c8a4604b49",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Claude Design"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8052-ab40-c86b36fe3371",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Tweaks - addds tweaks we can play with real time"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80b1-b1bd-d349e33de51b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Own weekly quota"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-809d-9c3a-fe55863f9a14",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Opus 4.7 default on every prompt - switch"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80ec-b5a2-d6d4ef25b82e",
+     "type": "bullet",
+     "depth": 1,
+     "text": "too long thread, export and start again"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80f3-a5b1-f0cd29d3cb08",
+     "type": "toggle",
+     "depth": 1,
+     "text": "What Drains Your Limit Fastest"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8016-a9a6-d0083fabda51",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Opus 4.7 default on every prompt → switch default to Sonnet 4.6 for drafts and exploration"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80dc-bb24-d86acf7f0dbd",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Skipping wireframes → always do wireframe A/B first, convert to HiFi only after deciding"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8028-9f96-e94b4d6847a9",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Design system setup without a URL → paste your site URL so Claude scrapes brand automatically"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-800b-93fe-ea4117a7d9d8",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Rewriting whole prompts for small edits → use inline canvas tools, Comment tool, Draw/sketch tool"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8045-9843-fb5bceb46306",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Long agentic threads → 1M context, no auto-compact. One project per thread, export, start fresh"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80aa-967a-c1bdb4a2f7c5",
+     "type": "toggle",
+     "depth": 1,
+     "text": "The ZIP export hack"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80fd-bd9f-c4b8f3e07469",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Export your design system as a ZIP → contains SKILL.md + README.md"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8038-8158-c552997b358f",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Drop into Claude Code, tell it to use SKILL.md as its skill"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-804b-ab38-d1dbaae06e6e",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Keep generating on-brand designs on your Claude Code allowance instead of Design allowance"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-809c-b1c4-c5cc7fa8b85b",
+     "type": "toggle",
+     "depth": 1,
+     "text": "Model by stage"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8094-bad3-f978b75862e4",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Opus 4.7: design system generation + final HiFi only"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-801a-ac25-d8d21c6ada75",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Sonnet 4.6: wireframes, exploration, slide iteration, copy edits - much cheaper, still solid"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80fc-9dbf-e2ffe659cf26",
+     "type": "toggle",
+     "depth": 1,
+     "text": "Workflow that saves the most tokens"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80d3-b607-fe09fe299049",
+     "type": "bullet",
+     "depth": 2,
+     "text": "One visual dimension per prompt - never combine typography + color + layout in one prompt"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80eb-9395-d58602e9cbd9",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Ban the default AI look: tell it no Inter, no Roboto, no YC gradients"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80bd-8988-e5dfca4b9cda",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Reference real products: “Linear 2023 with higher density” beats “make it clean”"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-8013-b992-d24026bfcdbc",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Point-and-comment edits over full prompt rewrites"
+    },
+    {
+     "block_id": "34cdaecf-ce6b-80ca-977b-cf2b36b9a06f",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Lean agentic: ask for prototypes, flows, 10-sec demos - better value per token than static screens"
+    }
+   ],
+   "Google Stitch": [
+    {
+     "block_id": "34c8870d-fd19-49d7-be3b-9e5cca248d30",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Describe the vibe, audience, and aesthetic, or provide a screenshot or URL.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "355daecf-ce6b-8093-add0-ef0b0c10cfa5",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Generates real, interactive UI components.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "e7038837-71dc-4ec8-8278-76e5f31be2fa",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Every element is tweakable.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "355daecf-ce6b-8051-bb96-e485c6d1d0e1",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Can update live via voice or drawing on the canvas.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "a6374483-e04c-4180-aeda-cbee2c2084fc",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Design and prototyping only, not a code editor or full-stack builder.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "355daecf-ce6b-80f2-920e-feedf6e49e90",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Exports a design.md design system file (colors, typography, spacing, components).",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "b30468f7-16bd-4a96-860a-c499e3f864f4",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Drop the design.md file into your project and have Claude Code follow it.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "355daecf-ce6b-8040-9e7a-ca7b27648b28",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Optional Stitch MCP for HTML, CSS, and screenshot visibility for more pixel-perfect output.",
+     "entry_id": "e65bb78c"
+    },
+    {
+     "block_id": "bdcd93db-31a2-49c8-8128-27d587b29d29",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Helps avoid the generic “vibe coded app” look.",
+     "entry_id": "e65bb78c"
+    }
+   ]
+  },
+  "Build and ship": {
+   "Screenshot loop": [
+    {
+     "block_id": "386daecf-ce6b-8099-ace8-c1bb4346867d",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Screenshot Loop (Nate Herk)"
+    },
+    {
+     "block_id": "386daecf-ce6b-8092-97c5-c083561a3736",
+     "type": "bullet",
+     "depth": 1,
+     "text": "use screenshots for AI to help iterate itself using Puppeteer"
+    }
+   ],
+   "RAG": [
+    {
+     "block_id": "340daecf-ce6b-805c-b774-d16b0329ee1b",
+     "type": "toggle",
+     "depth": 0,
+     "text": "RAG (Retrieval-Augmented Generation)"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-8000-bde5-ee74c16ffcc7",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Run retrieval experiments - test the same corpus in both wiki and vector-store formats against a fixed question set and compare answer quality/sourcing"
+    }
+   ],
+   "Databases and knowledge systems": [
+    {
+     "block_id": "34fdaecf-ce6b-80a0-9e7f-e5dfe5cf9f76",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Databases & Knowledge systems"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-800d-a121-f8f67a525d53",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Use a simple rule for knowledge systems:"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80f1-81f1-c7bd8c46906e",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Wiki when exact wording/source fidelity matters."
+    },
+    {
+     "block_id": "34fdaecf-ce6b-8008-adaf-ec7448ca2c2b",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Vector store / semantic search when you want relevant ideas, fuzzy retrieval, or discovers"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80d3-8512-f86f1aee6f34",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Don’t force one knowledge architecture across everything. Split systems by use case and data type.Multiple wikis / stores rather than one universal setup, because performance degrades as context grows."
+    }
+   ]
+  },
+  "Photos, video and design": {
+   "Production pipeline": [
+    {
+     "block_id": "34fdaecf-ce6b-809e-8b75-ff6a5d11417e",
+     "type": "toggle",
+     "depth": 0,
+     "text": "General"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-804f-999b-e1b9d0aa75ec",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Production pipeline"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-8071-8edc-e5800d0e5814",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Phase 1: Generate start frame images (Nano Banana Pro)"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80a7-ad4e-f32a9d71a0eb",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Phase 2: Generate end frame images (referencing start frames)"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80ba-9f18-c8cacaf51a8c",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Phase 3: Generate videos (Kling 3.0 with both frames)"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-8089-8b06-c343653c9ba4",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Phase 4: Generate transitions (SwiftCut between clips)"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80bd-b1f3-e4c132c696a3",
+     "type": "bullet",
+     "depth": 2,
+     "text": "Phase 5: Assemble with text overlays (CapCut for one-offs, Remotion for repeatable)"
+    }
+   ],
+   "Claude Design for video": [
+    {
+     "block_id": "346daecf-ce6b-8051-b7ae-fd960a39df7e",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Claude Design"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80af-b94b-cfd43af31876",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Also add screenshot-based verification loops so the model checks whether it actually made the requested changes"
+    },
+    {
+     "block_id": "347daecf-ce6b-8081-ae5b-e51c6b454775",
+     "type": "text",
+     "depth": 1,
+     "text": "1️⃣ Claude Design\n→ Upload a video, paste a transcript with timestamps, answer a few questions\n→ It builds a fully animated version with synced text and motion graphics\n→ Export the HTML and hand it to Claude Code to render as MP4\n→ Best for fast turnarounds without any setup"
+    },
+    {
+     "block_id": "347daecf-ce6b-8025-ad43-e02f4e33afa5",
+     "type": "text",
+     "depth": 1,
+     "text": "2️⃣ Hyperframes + Claude Code\n→ More setup, way more control\n→ Clone the repo, drop in your video, let Claude Code transcribe and plan\n→ Iterate like you would with a human editor (\"at 5 seconds the text is blurred, fix it\")\n→ Every video you make sharpens your setup with skills and design docs\n→ If you already have taste as an editor, these tools 10x you\n→ If you don't, the outputs will feel generic\n→ The tool doesn't replace the creative eye, it just removes the tedious work"
+    }
+   ],
+   "Tool-specific tutorials": [
+    {
+     "block_id": "34fdaecf-ce6b-807f-8c30-e3a479f1c03d",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Tool-specific tutorials"
+    },
+    {
+     "block_id": "333daecf-ce6b-80f8-a65d-d3990843b775",
+     "type": "bullet",
+     "depth": 2,
+     "text": "SwiftCut.ai is a thin wrapper around Kling 2.5 Turbo (Standard tier) accessed via the fal.ai API, with a carefully crafted cinematic transition prompt",
+     "entry_id": "c442e9a3"
+    },
+    {
+     "block_id": "333daecf-ce6b-804a-87a1-fc94f93ddf45",
+     "type": "bullet",
+     "depth": 2,
+     "text": "The tool itself is hosted on the Vost.ai white-label AI app platform",
+     "entry_id": "c442e9a3"
+    }
+   ]
+  },
+  "Scraping and social data": {
+   "ScrapeCreators": [
+    {
+     "block_id": "332daecf-ce6b-8045-946f-f1a25b8f36da",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Specialized for social media - built exclusively for real-time data extraction from Instagram, TikTok, YouTube, LinkedIn, Facebook, Twitter/X, Reddit, Pinterest, Threads, Bluesky, Snapchat, and more (28+ platforms total)",
+     "entry_id": "8f611ad7"
+    },
+    {
+     "block_id": "332daecf-ce6b-80c3-83c1-f9fd45157cb3",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Covers the full social data stack - profiles, posts, comments, transcripts, audience demographics, ad library data, trending content, and influencer metrics",
+     "entry_id": "8f611ad7"
+    },
+    {
+     "block_id": "333daecf-ce6b-806f-ac4a-fe5a04d0d140",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Predictable Pricing: In threads on r/n8n asking for low-cost ways to scrape TikTok and Instagram without using Apify, ScrapeCreators is recommended for its straightforward pay-as-you-go model",
+     "entry_id": "8f611ad7"
+    },
+    {
+     "block_id": "332daecf-ce6b-8041-a78e-eb3776e8b09e",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Best for: influencer research, sentiment analysis, competitor ad tracking, social content sourcing (like your Instagram comment use case), and B2B social analytics.",
+     "entry_id": "8f611ad7"
+    }
+   ],
+   "Twitter scraping": [
+    {
+     "block_id": "333daecf-ce6b-80fb-8577-e189843fb61e",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Twitter scraping"
+    },
+    {
+     "block_id": "333daecf-ce6b-800c-94f7-cdee82d42802",
+     "type": "text",
+     "depth": 1,
+     "text": "You mentioned wanting to conduct wide research using your ct0 and auth_token session cookies. This is a highly effective method that bypasses the exorbitant costs of the official X API (which now charges $5,000/month for the Pro tier)."
+    },
+    {
+     "block_id": "333daecf-ce6b-8004-8316-c7a1ee82e28b",
+     "type": "text",
+     "depth": 1,
+     "text": "Native Scraping (Using ct0 and auth_token)"
+    },
+    {
+     "block_id": "333daecf-ce6b-804d-aa9a-d9e4e99db436",
+     "type": "text",
+     "depth": 1,
+     "text": "By utilizing your session cookies, you can authenticate directly with Twitter's internal GraphQL API. This is the exact API the Twitter web app uses, meaning it exposes significantly more data than the official public API."
+    },
+    {
+     "block_id": "333daecf-ce6b-8045-b54f-c87e723cd1b8",
+     "type": "text",
+     "depth": 1,
+     "text": "Capabilities:"
+    },
+    {
+     "block_id": "333daecf-ce6b-80db-be27-d70b1413b932",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Full Search & Timelines: You can pull chronological user timelines, advanced search results, and full conversation threads."
+    },
+    {
+     "block_id": "333daecf-ce6b-804f-a4de-d22e37c24914",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Follower/Following Graphs: Access to complete social graphs, which is heavily restricted in official APIs."
+    },
+    {
+     "block_id": "333daecf-ce6b-8074-889f-feb63ff8faae",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Real-World Example (last30days-skill): The skill uses a vendored library called bird-search (a subset of @steipete/bird) to execute native GraphQL queries using the AUTH_TOKEN and CT0 environment variables. This allows it to bypass the official API entirely and pull deep search results natively."
+    },
+    {
+     "block_id": "333daecf-ce6b-8066-8460-f537b70142a4",
+     "type": "text",
+     "depth": 1,
+     "text": "Challenges:"
+    },
+    {
+     "block_id": "333daecf-ce6b-8027-94e4-c9953ae90e89",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Rate Limits: Twitter's internal API still enforces rate limits (typically resetting every 15 minutes per endpoint per account). For truly \"wide\" research, you will need to pool multiple accounts and rotate residential proxies to avoid IP bans."
+    },
+    {
+     "block_id": "333daecf-ce6b-8029-9272-ce5c65929091",
+     "type": "text",
+     "depth": 1,
+     "text": "ScrapeCreators API for Twitter"
+    },
+    {
+     "block_id": "333daecf-ce6b-80c0-bc21-f9b8d0126fa5",
+     "type": "text",
+     "depth": 1,
+     "text": "ScrapeCreators offers a very limited set of endpoints for Twitter."
+    },
+    {
+     "block_id": "333daecf-ce6b-8060-b6a3-d6f81f34f5c0",
+     "type": "text",
+     "depth": 1,
+     "text": "Limitations:"
+    },
+    {
+     "block_id": "333daecf-ce6b-804b-8304-c92b5fb07ab8",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Critical Flaw for Research: Their User Tweets endpoint does not return the latest tweets. It only returns approximately 100 of the user's most popular tweets."
+    },
+    {
+     "block_id": "333daecf-ce6b-80d3-afde-cd32712bc5ed",
+     "type": "bullet",
+     "depth": 1,
+     "text": "No Search Endpoint: They currently do not offer a keyword or hashtag search endpoint for Twitter, making wide-scale topic research impossible through their platform."
+    },
+    {
+     "block_id": "333daecf-ce6b-80c7-9b28-ee9a605e4ec7",
+     "type": "text",
+     "depth": 1,
+     "text": "Verdict for Twitter: Native Scraping wins. For open-core research, using your ct0 and auth_token (as demonstrated by the last30days-skill) is vastly superior. ScrapeCreators is too limited for comprehensive Twitter data extraction."
+    }
+   ],
+   "Reddit scraping": [
+    {
+     "block_id": "333daecf-ce6b-80ec-b46b-dfdc54dd2de3",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Reddit scraping"
+    },
+    {
+     "block_id": "333daecf-ce6b-8058-981d-c87aba74ec67",
+     "type": "text",
+     "depth": 1,
+     "text": "Reddit recently tightened its API access, effectively killing the free tier for large-scale data extraction and shutting down third-party archives like Pushshift."
+    },
+    {
+     "block_id": "333daecf-ce6b-80a5-962a-f016818480db",
+     "type": "text",
+     "depth": 1,
+     "text": "Native Scraping"
+    },
+    {
+     "block_id": "333daecf-ce6b-800c-8c41-faf143c785bc",
+     "type": "bullet",
+     "depth": 1,
+     "text": "PRAW (Python Reddit API Wrapper): While PRAW is the standard, it is now strictly bound by Reddit's new rate limits (typically 100 requests per minute for OAuth, and a hard cap of 1,000 items per listing)."
+    },
+    {
+     "block_id": "333daecf-ce6b-8018-831c-ce801d70c825",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Browser Emulation: Tools like Selenium or Playwright can scroll Reddit infinitely without hitting the 1,000-item API cap, but parsing Reddit's complex DOM structure is notoriously difficult and slow."
+    },
+    {
+     "block_id": "333daecf-ce6b-8015-a7c1-fa5c7e4d31cc",
+     "type": "text",
+     "depth": 1,
+     "text": "ScrapeCreators API for Reddit"
+    },
+    {
+     "block_id": "333daecf-ce6b-80c3-8082-d42eb1e30877",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Capabilities: ScrapeCreators provides endpoints for Subreddit Details, Subreddit Posts, Subreddit Search, Post Comments, and General Search."
+    },
+    {
+     "block_id": "333daecf-ce6b-803f-9e06-ede58bb10de8",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Real-World Example (last30days-skill): The skill explicitly prefers ScrapeCreators for Reddit. It uses ScrapeCreators to perform global searches, discover relevant subreddits, and fetch deep comment trees. The code notes that ScrapeCreators is \"cheaper, faster\" and avoids the strict rate limits of the public Reddit JSON endpoints."
+    },
+    {
+     "block_id": "333daecf-ce6b-80e2-a7fd-c06e4e2479fa",
+     "type": "text",
+     "depth": 1,
+     "text": "Verdict for Reddit: ScrapeCreators wins. If you need to bypass the 1,000-item limit without building a complex headless browser infrastructure, ScrapeCreators provides a much cleaner path. The last30days-skill architecture validates this choice."
+    }
+   ],
+   "LinkedIn scraping": [
+    {
+     "block_id": "333daecf-ce6b-80c6-b5a9-e82a753a2068",
+     "type": "toggle",
+     "depth": 0,
+     "text": "LinkedIn scraping"
+    },
+    {
+     "block_id": "333daecf-ce6b-80e2-a2a0-edb92f58c928",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Native: Extremely difficult. LinkedIn uses sophisticated fingerprinting and will permanently ban accounts caught scraping. Open-source tools exist, but they require premium residential proxies and slow, randomized execution."
+    },
+    {
+     "block_id": "333daecf-ce6b-80a5-a36e-d231a79bf4e4",
+     "type": "bullet",
+     "depth": 1,
+     "text": "ScrapeCreators: Offers endpoints for Person Profiles, Company Pages, and Company Posts, completely abstracting the high risk of account bans."
+    }
+   ],
+   "Firecrawl": [
+    {
+     "block_id": "332daecf-ce6b-8098-a802-cb0ef97eb0ff",
+     "type": "bullet",
+     "depth": 1,
+     "text": "General web scraping API for AI - turns any website into clean, LLM-ready Markdown or structured JSON; not designed for social media",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "332daecf-ce6b-80fe-b141-cdde159c01d9",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Open source + Y Combinator backed - 100k+ GitHub stars; self-hostable; integrates natively with n8n, LangChain, LlamaIndex, and most major AI frameworks.",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "332daecf-ce6b-8022-a0e1-ebba3a282d65",
+     "type": "bullet",
+     "depth": 1,
+     "text": "from website clean markdown, structured JSON, screenshots and feed to AI agent",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "333daecf-ce6b-809a-a3fd-e6f43edea092",
+     "type": "bullet",
+     "depth": 1,
+     "text": "n8n Integration: The community frequently shares successful workflows combining Firecrawl's MCP server with n8n for deep site crawls",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "333daecf-ce6b-809d-b5cd-c1276c4cef1a",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Bypassing Anti-Bot Measures: Users on r/CreatorsAI noted that their \"first impression was honestly jaw-dropping,\" specifically praising its ability to handle dynamic content and heavy JavaScript that trips up older tools",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "333daecf-ce6b-8037-993f-c09807f53cb8",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Cost Inefficiency at Scale: A major complaint on r/micro_saas is Firecrawl's flat-rate pricing model. Users are frustrated that they pay the same rate for a simple static HTML page as they do for a complex, Cloudflare-protected JavaScript site. One user noted a mixed workload of 2,000 pages cost $79/month on Firecrawl, whereas tiered alternatives cost around $15",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "333daecf-ce6b-80ff-b6f7-c1a60b4c9e4e",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Poor Structured Extraction: While great for Markdown, users on r/AI_Agents complained that Firecrawl \"sucks for extraction at scale\" when you need structured JSON data (like specific prices or names), leading to bloated token usage and poor vector DB retrieval",
+     "entry_id": "33578102"
+    },
+    {
+     "block_id": "332daecf-ce6b-80e2-8b9e-d954727a843e",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Best for: AI agents needing live web context, RAG pipelines, SEO audits, lead enrichment, price tracking, competitive intelligence, and any automation that requires clean structured data from regular websites",
+     "entry_id": "33578102"
+    }
+   ],
+   "Apify": [
+    {
+     "block_id": "333daecf-ce6b-802c-b782-f14e834910b5",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Its store acts as an app store for scrapers, making it the go-to platform when users \"don't want to think\" and just need a pre-built Actor for Amazon, Google Maps, or Instagram",
+     "entry_id": "7c0cb881"
+    },
+    {
+     "block_id": "333daecf-ce6b-8051-a024-fb800fc3bf3b",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Reliability for Medium Volume: Users on r/SaaS report that Apify works well for medium-volume jobs, provided you track your compute units carefully",
+     "entry_id": "7c0cb881"
+    },
+    {
+     "block_id": "333daecf-ce6b-80e8-8266-f3ab7c32bd96",
+     "type": "bullet",
+     "depth": 1,
+     "text": "Unpredictable Pricing: The most common complaint across all subreddits is Apify's pricing complexity. Because users pay for a subscription + compute units + proxy bandwidth + Actor rental fees, it is incredibly difficult to forecast costs. One user on r/webscraping claimed they saved 90% of their costs by migrating away from Apify to a custom Scrapy framework",
+     "entry_id": "7c0cb881"
+    }
+   ]
+  },
+  "GTM and sales": {
+   "Speed-to-lead systems": [
+    {
+     "block_id": "34fdaecf-ce6b-809f-ab65-d7fea711b5d2",
+     "type": "toggle",
+     "depth": 0,
+     "text": "Speed-to-lead systems"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-808a-b0b9-cfa94834db2f",
+     "type": "bullet",
+     "depth": 1,
+     "text": "sales/marketing automation setup that makes sure a new lead is contacted as fast as possible after they show intent"
+    },
+    {
+     "block_id": "34fdaecf-ce6b-80d6-8f3e-e22729753cba",
+     "type": "bullet",
+     "depth": 1,
+     "text": "design the flow before picking the stack - define the trigger, the transformation/logic, and the end action. Once that’s clear, stack choice becomes easier"
+    }
+   ]
+  }
+ }
+}

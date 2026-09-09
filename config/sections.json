@@ -1,0 +1,115 @@
+{
+  "_about": "Section order and blurbs for README.md and FIELD-NOTES.md. Names must match the 'section' values written by the Notion sync (data/links.csv, data/notes.json). kind: links = link entries only, notes = field notes only, mixed = both. min_entries counts rendered items (entries plus notes) per section, globally or per section; tools/lint.py fails below it. notes_file: every note is rendered into that file instead of README.md; notes_index: the README section that carries the index of the notes file.",
+  "min_entries": 3,
+  "notes_file": "FIELD-NOTES.md",
+  "notes_index": "Field notes",
+  "sections": [
+    {
+      "name": "Web design and inspiration",
+      "kind": "mixed",
+      "blurb": "Where I look before I let an agent touch a layout: the galleries I harvest references from, the copy-paste component libraries and MCPs that return clean markup, prompt libraries for the first draft, Google Stitch for interactive mockups, and my notes on making Claude Design earn its quota.",
+      "subsections": [
+        "Website inspiration databases",
+        "Design sources and MCPs",
+        "Website prompts",
+        "Google Stitch",
+        "Claude Design"
+      ]
+    },
+    {
+      "name": "Dashboards and UI components",
+      "kind": "links",
+      "blurb": "The admin templates, chart libraries and component systems I benchmark dashboards against - the shadcn stack first, then what to add for charts, tables and animation. Where a link is a GitHub repository, star counts and licenses come from GitHub and are refreshed weekly.",
+      "subsections": [
+        "Dashboard elements",
+        "UI components"
+      ]
+    },
+    {
+      "name": "Build and ship",
+      "kind": "mixed",
+      "blurb": "Getting a vibe-coded site from localhost to a real domain and keeping it honest. The deploy loop I use: Claude Code edits locally, nothing is pushed until I say so, GitHub receives the commit, Vercel deploys it and serves the custom domain. Then screenshot-based self-checks, RAG and knowledge-store rules, paywalls for mobile, analytics.",
+      "subsections": [
+        "Screenshot loop",
+        "RAG",
+        "Databases and knowledge systems",
+        "Mobile app dev",
+        "PostHog",
+        "Optimize eshops"
+      ]
+    },
+    {
+      "name": "Photos, video and design",
+      "kind": "mixed",
+      "blurb": "The image and video stack: a five-phase production pipeline, the model aggregators and API providers I run generations through, Higgsfield's MCP, Seedance and Kling for video, Hyperframes for editing inside Claude Code, and what SwiftCut really is under the hood. Prompting rules for Nano Banana Pro and Kling 3.0 live in the field notes.",
+      "subsections": [
+        "Production pipeline",
+        "Model aggregators and API providers",
+        "Higgsfield",
+        "Video generation",
+        "Video editing",
+        "Claude Design for video",
+        "Tool-specific tutorials",
+        "Upscaling",
+        "Branding"
+      ]
+    },
+    {
+      "name": "Scraping and social data",
+      "kind": "mixed",
+      "blurb": "Which scraper for which job: ScrapeCreators for social platforms, Firecrawl for regular websites, Apify's store when you want a pre-built actor - plus per-platform notes on Twitter, Reddit and LinkedIn, including where native scraping beats an API and where it gets your account banned.",
+      "subsections": [
+        "ScrapeCreators",
+        "Firecrawl",
+        "Apify",
+        "Twitter scraping",
+        "Reddit scraping",
+        "LinkedIn scraping"
+      ]
+    },
+    {
+      "name": "GTM and sales",
+      "kind": "mixed",
+      "blurb": "Short on purpose - most of my GTM material is course content or other people's pitches, and that stays private. What is here: agents doing sales work, and my notes on speed-to-lead systems. Swan's GTM skills are listed under Skills for builders.",
+      "subsections": [
+        "Agents",
+        "Speed-to-lead systems"
+      ]
+    },
+    {
+      "name": "Skills for builders",
+      "kind": "links",
+      "blurb": "Skills I point Claude Code at when building products: the development skills from jeffallan's guide and friends (one link each - the guide explains them better than I would), Swan's GTM skill library, and the registries and collections I browse when I need one more.",
+      "subsections": [
+        "Development skills",
+        "GTM skills",
+        "Skill collections and registries"
+      ]
+    },
+    {
+      "name": "Learning",
+      "kind": "links",
+      "blurb": "Videos, creators and newsletters that shaped how I build - my own saves per topic, plus the learning material from the agentmatik.ai link directory.",
+      "subsections": [
+        "Websites and apps",
+        "Photos, video and design",
+        "GTM and sales",
+        "Videos",
+        "Creators",
+        "Podcasts and newsletters"
+      ]
+    },
+    {
+      "name": "Field notes",
+      "kind": "notes",
+      "blurb": "Working rules I keep in Notion: the checklist I run after vibe-coding an app so it does not get hacked, prompting rules for Nano Banana Pro and Kling 3.0, and a few reminders on building websites and on GTM.",
+      "subsections": [
+        "Check after vibing",
+        "Building websites and apps",
+        "Nano Banana Pro prompting",
+        "Kling 3.0 prompting",
+        "GTM"
+      ]
+    }
+  ]
+}
