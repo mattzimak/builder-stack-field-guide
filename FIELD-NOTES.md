@@ -1,4 +1,4 @@
-# Builder stack for founders - field notes
+# Builder stack field notes
 
 142 notes in 6 sections · built from the same data as README.md
 

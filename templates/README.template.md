@@ -1,8 +1,8 @@
-# Builder stack for founders
+# Builder stack field guide
 
 {{header_line}}
 
-One founder's working list of what actually helps when you build websites, apps, dashboards, visuals and outbound with AI agents: where I get design references, the component libraries and prompt packs I start from, how I ship and check what the agent built, the image and video stack, which scraper for which data, and the skills I hand Claude Code. It merges my private Notion notes with the public link directory at [agentmatik.ai/links](https://agentmatik.ai/links). It is not a directory of everything that exists - if something is here, it earned its place in real work. The longer notes live in [FIELD-NOTES.md](FIELD-NOTES.md). Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
+One founder's field guide to building websites, apps, dashboards, visuals and outbound with AI agents: where I get design references, the component libraries and prompt packs I start from, how I ship and check what the agent built, the image and video stack, which scraper for which data, and the skills I hand Claude Code. It merges my private Notion notes with the public link directory at [agentmatik.ai/links](https://agentmatik.ai/links). It is not a directory of everything that exists - if something is here, it earned its place in real work. The longer notes live in [FIELD-NOTES.md](FIELD-NOTES.md). Suggest a link by opening an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 Descriptions are my own notes where I wrote one. Where I only saved a link, the description is the repository's, the page's or the post's own summary. A suffix like `(free, no account)`, `(free account)` or `(paid)` is the access label from the agentmatik.ai directory, and a `Why:` that says "we" or "our" is that directory's reason, written for Agentmatik's clients. Ratings like `(Matt: 8/10)` are my personal scores.
 

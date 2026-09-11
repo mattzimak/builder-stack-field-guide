@@ -1,4 +1,4 @@
-# Builder stack for founders - field notes
+# Builder stack field notes
 
 {{header_line}}
 
